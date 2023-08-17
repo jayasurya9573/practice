@@ -3,3 +3,4 @@
 a=1
 
 echo "enter value"
+read
